@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project work\\PromptSubmissionBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|c:\\project work\\promptsubmissionbackend\\services\\promptbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|solutionrelative:services\\promptbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|c:\\project work\\promptsubmissionbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|c:\\project work\\promptsubmissionbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|c:\\project work\\promptsubmissionbackend\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|solutionrelative:services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|c:\\project work\\promptsubmissionbackend\\controllers\\promptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|solutionrelative:controllers\\promptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|c:\\project work\\promptsubmissionbackend\\models\\promptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|solutionrelative:models\\promptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|c:\\project work\\promptsubmissionbackend\\dtos\\promptrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|solutionrelative:dtos\\promptrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|c:\\project work\\promptsubmissionbackend\\services\\promptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|solutionrelative:services\\promptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|c:\\project work\\promptsubmissionbackend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|c:\\project work\\promptsubmissionbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|c:\\project work\\promptsubmissionbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE61F23-AF57-422B-8DF2-514D6A93A0A1}|PromptSubmissionBackend.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\project work\\PromptSubmissionBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\project work\\PromptSubmissionBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T12:25:39.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "C:\\project work\\PromptSubmissionBackend\\Services\\GeminiService.cs",
+              "RelativeDocumentMoniker": "Services\\GeminiService.cs",
+              "ToolTip": "C:\\project work\\PromptSubmissionBackend\\Services\\GeminiService.cs",
+              "RelativeToolTip": "Services\\GeminiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T12:19:56.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PromptBackgroundService.cs",
+              "DocumentMoniker": "C:\\project work\\PromptSubmissionBackend\\Services\\PromptBackgroundService.cs",
+              "RelativeDocumentMoniker": "Services\\PromptBackgroundService.cs",
+              "ToolTip": "C:\\project work\\PromptSubmissionBackend\\Services\\PromptBackgroundService.cs",
+              "RelativeToolTip": "Services\\PromptBackgroundService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:26:18.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PromptController.cs",
+              "DocumentMoniker": "C:\\project work\\PromptSubmissionBackend\\Controllers\\PromptController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PromptController.cs",
+              "ToolTip": "C:\\project work\\PromptSubmissionBackend\\Controllers\\PromptController.cs",
+              "RelativeToolTip": "Controllers\\PromptController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:15:03.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\project work\\PromptSubmissionBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\project work\\PromptSubmissionBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:49:53.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PromptRequestDto.cs",
+              "DocumentMoniker": "C:\\project work\\PromptSubmissionBackend\\DTOs\\PromptRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PromptRequestDto.cs",
+              "ToolTip": "C:\\project work\\PromptSubmissionBackend\\DTOs\\PromptRequestDto.cs",
+              "RelativeToolTip": "DTOs\\PromptRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:25:51.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PromptRequest.cs",
+              "DocumentMoniker": "C:\\project work\\PromptSubmissionBackend\\Models\\PromptRequest.cs",
+              "RelativeDocumentMoniker": "Models\\PromptRequest.cs",
+              "ToolTip": "C:\\project work\\PromptSubmissionBackend\\Models\\PromptRequest.cs",
+              "RelativeToolTip": "Models\\PromptRequest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:24:34.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PromptService.cs",
+              "DocumentMoniker": "C:\\project work\\PromptSubmissionBackend\\Services\\PromptService.cs",
+              "RelativeDocumentMoniker": "Services\\PromptService.cs",
+              "ToolTip": "C:\\project work\\PromptSubmissionBackend\\Services\\PromptService.cs",
+              "RelativeToolTip": "Services\\PromptService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:17:43.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\project work\\PromptSubmissionBackend\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\project work\\PromptSubmissionBackend\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:32:53.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\project work\\PromptSubmissionBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\project work\\PromptSubmissionBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:32:50.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\project work\\PromptSubmissionBackend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\project work\\PromptSubmissionBackend\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:32:40.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

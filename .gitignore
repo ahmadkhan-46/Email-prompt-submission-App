@@ -1,0 +1,23 @@
+# Angular (frontend)
+node_modules/
+dist/
+.angular/
+.env
+*.log
+
+# .NET (backend)
+bin/
+obj/
+*.user
+*.suo
+*.dbmdl
+*.cache
+*.pdb
+appsettings.Development.json
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
