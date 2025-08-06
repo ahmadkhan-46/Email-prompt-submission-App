@@ -24,7 +24,7 @@ The app includes **user and admin roles**, prompt tracking, and background proce
 
 ## 🛠 Tech Stack
 ### Frontend
-- Angular 16+
+- Angular 19+
 - Bootstrap 5
 - TypeScript
 
