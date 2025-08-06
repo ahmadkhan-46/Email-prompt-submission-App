@@ -1,41 +1,64 @@
 📧 Email Prompt Submission App
+A full-stack web application that allows users to submit prompts, which are processed and sent via AI-generated emails. The system provides role-based authentication, real-time status tracking, and an admin dashboard for request management.
 
-A full-stack application that allows users to **submit prompts**, automatically **convert them into professional emails using AI (Gemini API)**, and then **send the emails to the intended recipient** after a short delay.  
-The app includes **user and admin roles**, prompt tracking, and background processing.
+🚀 Features
+✅ Angular Frontend – Responsive UI for users and admins
 
----
+✅ ASP.NET Core Backend – REST API with SQL Server integration
 
-## 🚀 Features
-✔ **User Signup & Login (JWT Authentication)**  
-✔ **Role-Based Access (User & Admin)**  
-✔ **Submit Prompts with Recipient Email**  
-✔ **Background Service**:  
-   - Stores prompts in the database with **Pending** status  
-   - Processes them every 5 minutes  
-   - Uses **Google Gemini AI** to generate a formal email  
-   - Sends the email to the recipient and updates status to **Submitted**  
-✔ **User Dashboard** – View all previously submitted prompts  
-✔ **Admin Dashboard** – View all prompts and user activities  
-✔ **Responsive UI (Angular)**  
-✔ **REST API (ASP.NET Core 8)**  
-✔ **Email Sending via SMTP**  
+✅ JWT Authentication – Secure login for Users and Admins
 
----
+✅ AI Email Generation – Automated, intelligent email responses
 
-## 🛠 Tech Stack
-### Frontend
-- Angular 19+
-- Bootstrap 5
-- TypeScript
+✅ Prompt Status Tracking – Manage and monitor submissions
 
-### Backend
-- ASP.NET Core 8 Web API
-- Entity Framework Core
-- Microsoft SQL Server
-- Background Services (HostedService)
-- Gemini AI API (Google Generative Language API)
-- SMTP Email Service (Gmail)
+✅ Background Email Scheduler – Sends pending emails every 5 minutes
 
----
+✅ Admin Dashboard – View all user requests and manage roles
 
- 📂 Project Structure
+🛠 Tech Stack
+Frontend: Angular 16+, TypeScript, Bootstrap
+
+Backend: ASP.NET Core 8, C#
+
+Database: Microsoft SQL Server
+
+Authentication: JWT (JSON Web Token)
+
+Email Service: AI-generated email logic (e.g., OpenAI, custom logic)
+
+Scheduler: Background task in .NET for email delivery
+
+📂 Project Structure
+bash
+Copy
+Edit
+/email-prompt-app
+│
+├── frontend/         # Angular code
+├── backend/          # ASP.NET Core API
+│   ├── Controllers/
+│   ├── Models/
+│   ├── Services/
+│   └── Data/
+└── README.md
+
+📬 How It Works
+User Signup/Login using JWT Authentication
+
+Submit Prompt through the Angular dashboard
+
+Store Prompt in SQL Server with Pending status
+
+Background Scheduler checks every 5 mins to send email
+
+AI Generates Email and sends via email API
+
+Status Updates to Submitted after success
+
+🛡️ Security
+Role-based authentication (Admin & User)
+
+JWT tokens for session security
+
+Input validation and SQL injection protection
